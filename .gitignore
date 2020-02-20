@@ -1,0 +1,9 @@
+# Should not include in code repository
+# Environment file 
+.env
+
+# Dependency directory 
+node_modules
+
+# Should include in code repository.
+# package-lock.json
